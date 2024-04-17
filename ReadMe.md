@@ -3,23 +3,18 @@
 ## Table of Contents
 
 1. [Preview](#preview)
-2. [Link](#link)
-3. [Project Description](#project-description)
-4. [Technologies Used](#technologies-used)
-5. [Features](#features)
-6. [Installation](#installation)
-7. [Methodologies](#methodologies)
-8. [Testing](#testing)
-9. [Requirements](#requirements)
-10. [Creator](#creator)
+2. [Project Description](#project-description)
+3. [Technologies Used](#technologies-used)
+4. [Features](#features)
+5. [Installation](#installation)
+6. [Methodologies](#methodologies)
+7. [Testing](#testing)
+8. [Requirements](#requirements)
+9. [Creator](#creator)
 
 ## Preview
 
 <img width="500" alt="Tag" src="https://github.com/NateJonesIII/lich_lord/blob/main/assets/img/lich_lord_1.0.png">
-
-## Link
-
-[Include link to the repository or deployed version of the project]
 
 ## Project Description
 

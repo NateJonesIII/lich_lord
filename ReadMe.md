@@ -51,7 +51,7 @@ The project follows Object-Oriented Programming principles for code organization
 
 ## Testing
 
-Describe any testing methodologies or frameworks used for testing the project. Include instructions on how to run tests if applicable.
+- Testing packes coming soon!
 
 ## Requirements
 

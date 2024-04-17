@@ -15,7 +15,7 @@
 
 ## Preview
 
-<img width="500" alt="Tag" src="https://github.com/NateJonesIII/ToDoScheduler/blob/main/assets/img/lich_lord_1.0.png">
+<img width="500" alt="Tag" src="https://github.com/NateJonesIII/lich_lord/blob/main/assets/img/lich_lord_1.0.png">
 
 ## Link
 

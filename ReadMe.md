@@ -15,7 +15,7 @@
 
 ## Preview
 
-[Include screenshots or GIFs of the game in action]
+<img width="500" alt="Tag" src="https://github.com/NateJonesIII/ToDoScheduler/blob/main/assets/img/lich_lord_1.0.png">
 
 ## Link
 
@@ -28,7 +28,7 @@
 ## Technologies Used
 
 - `Python`
-- `Tkinter`(for GUI)
+- `Tkinter` (for GUI)
 
 ## Features
 

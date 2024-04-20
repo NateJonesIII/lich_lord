@@ -14,7 +14,7 @@
 
 ## Preview
 
-<img width="500" alt="Tag" src="https://github.com/NateJonesIII/lich_lord/blob/main/assets/img/intro_pic.png">
+<img width="500" alt="Tag" src="https://github.com/NateJonesIII/lich_lord/blob/main/assets/img/intro_pic.PNG">
 
 ## Project Description
 

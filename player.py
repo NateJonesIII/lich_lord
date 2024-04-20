@@ -1,5 +1,5 @@
 # player.py
-#
+# divider variable
 divider = "======================"
 
 class Player:
@@ -48,7 +48,7 @@ class Player:
         
     def attack_enemy(self, enemy):
         enemy.health -= self.attack
-        print(f"Player attacks {enemy.name} with {self.attack} damage!")
+        print(f"Player attacks {enemy.name} for {self.attack} damage!")
 
     def show_pouch(self):
         print("Items in pouch:")
@@ -64,7 +64,24 @@ class Player:
             self.pouch.remove("potion")
         else:
             print("No healing potion found in pouch.")
-            
+    
+    def attack_alter(self, pts):
+        self.attack += pts
+    
+    def health_alter(self, pts):
+        self.health += pts
+    
+    def get_health(self):
+        return self.health
+    
+    def get_name(self):
+        return self.name
+    
+    def get_attack(self):
+        return self.attack
+    
+    def get_defense(self):
+        return self.defense
 class Flexor(Player):
     def __init__(self, name="", health=160, attack=70, defense=25, pouch=["potion","chain"]):
         super().__init__(name, health, attack, defense, pouch)

@@ -56,4 +56,4 @@ The project follows Object-Oriented Programming principles for code organization
 
 ## Creator
 
-- [Profile](https://github.com/NateJonesIII/ "Nathaniel Jones") - [LinkedIn](https://www.linkedin.com/in/nathaniel-jones/) - [Email](mailto:15nate.jones@gmail.com?subject=Hello "Hello Nate!")
+- [Profile](https://github.com/NateJonesIII/ "Nathaniel Jones") - [Email](mailto:nate@devnjones.me?subject=Hello "Hello Nate!")
